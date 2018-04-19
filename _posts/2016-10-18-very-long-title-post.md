@@ -126,13 +126,11 @@ ___
 
 ## Media
 
-### YouTube Embedded Iframe
+### NetEase Music
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n1a7o44WxNo" frameborder="0" allowfullscreen></iframe>
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width="330" height="86" src="//music.163.com/outchain/player?type=2&id=456869610&auto=1&height=66"></iframe>
 
 ### YouKu Embedded Iframe
-
-<iframe height=498 width=510 src='http://player.youku.com/embed/XMzI0ODU0NTc5Ng==' frameborder=0 'allowfullscreen'></iframe>
 
 <iframe width="560" height="315" src="http://player.youku.com/embed/XMzI0ODU0NTc5Ng==" frameborder="0" allowfullscreen></iframe>
 

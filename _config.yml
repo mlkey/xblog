@@ -14,7 +14,7 @@ twitter_username:   mlkey # set to 'false' to disable
 github_username:    mlkey # set to 'false' to disable
 
 # Site Settings
-url:                https://lowshi.com # main url
+url:                http://lowshi.com # main url
 baseurl:            /blog # for gh-pages
 permalink:          /:year/:month/:title # Post permalink
 timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones

@@ -1,5 +1,5 @@
 # Site Info
-title:              "The Plain"
+title:              "孟想"
 description:        "The Plain is a minimalist Jekyll theme, that's it. Can't say anymore..."
 
 # Google APIs
@@ -7,17 +7,17 @@ google_verify:      epFgX0s_0RM3CdjwFcsewfXzPov2g8s9ZBOLyaIUH-o # Your Google Ve
 google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' to disable
 
 # Author Info
-author_name:        "Heiswayi Nrird"
-author_email:       hnrird@gmail.com
-author_gravatar:    2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
-twitter_username:   HeiswayiNrird # set to 'false' to disable
-github_username:    heiswayi # set to 'false' to disable
+author_name:        "孟想"
+author_email:       LinkMon@qq.com
+author_gravatar:    false  # 2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
+twitter_username:   mlkey # set to 'false' to disable
+github_username:    mlkey # set to 'false' to disable
 
 # Site Settings
-url:                https://heiswayi.nrird.com # main url
-baseurl:            /the-plain # for gh-pages
-permalink:          /notes/:title # Post permalink
-timezone:           Asia/Kuala_Lumpur # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+url:                https://lowshi.com # main url
+baseurl:            /blog # for gh-pages
+permalink:          /:year/:month/:title # Post permalink
+timezone:           Asia/Shanghai # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 mathjax:            true  # enables support for mathjax - set to 'false' to disable
 
 # Site Build

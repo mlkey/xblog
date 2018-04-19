@@ -9,7 +9,7 @@ google_analytics:   UA-XXXXXXX-X # Your Google Analytics code - set to 'false' t
 # Author Info
 author_name:        "孟想"
 author_email:       LinkMon@qq.com
-author_gravatar:    false  # 2b38b1b0e7e08b69379bd61582adf0c8 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
+author_gravatar:    e07931af1a9cbc90b0c3610ecfc5f2a6 # Gravatar md5 hash (of email) here for logo - set to 'false' to disable
 twitter_username:   mlkey # set to 'false' to disable
 github_username:    mlkey # set to 'false' to disable
 
